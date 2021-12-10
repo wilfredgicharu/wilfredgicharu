@@ -9,6 +9,8 @@
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/wilfredgicharu/)
   -:office: [twitter](https://twitter.com/WilfredGicharu)
+  -:Email: wilfredgicharu254@gmail.com
+  -: Phone: +254748760186
  
  
  [![Wilfred's github stats](https://github-readme-stats.vercel.app/api?username=WilfredGicharu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
