@@ -35,6 +35,8 @@
  
 </p>
 
+[![Wesley's github activity](https://activity-graph.herokuapp.com/graph?username=wilfredgicharu&theme=chartreuse-dark)](https://github.com/wilfredgicharu/github-readme-activity-graph)
+
 <h2 align="left">How to find me</h2>
 <a href="https://twitter.com/WilfredGicharu">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
