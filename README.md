@@ -1,8 +1,7 @@
 
 ### Hi ✨, Its Wilfred
 - Android developer
-- Kotlin
-- java
+- Kotlin/java  .... Currently Learning React Native
 - - :zap: I love android development
 - 🌱 I’m determined to achieve and growing every day
 -
