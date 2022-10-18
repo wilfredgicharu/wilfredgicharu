@@ -6,7 +6,7 @@
 
 <!-- - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/wilfredgicharu/)
-  -:office: [twitter](https://twitter.com/WilfredGicharu)
+  -:office: [twitter](https://twitter.com/DeveloperWilfr1)
   -:Email: wilfredgicharu254@gmail.com
   -: Phone: +254748760186 -->
  
