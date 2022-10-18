@@ -1,10 +1,9 @@
 
 ### Hi ✨, Its Wilfred
-- Android developer
-- Kotlin/java  .... Currently Learning React Native
-- - :zap: I love android development
-- 🌱 I’m determined to achieve and growing every day
--
+         Android developer (Kotlin/java )
+.... Currently Learning React Native .....
+
+
 <!-- - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/wilfredgicharu/)
   -:office: [twitter](https://twitter.com/WilfredGicharu)
