@@ -1,7 +1,7 @@
 
 ### Hi ✨, Its Wilfred
          Android developer (Kotlin/java )
-.... Currently Learning Springboot .....
+.... Currently Learning Springboot and Compose .....
 
 
 <!-- - 📫 How to find me: 
