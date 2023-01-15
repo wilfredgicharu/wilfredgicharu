@@ -11,9 +11,9 @@
   -: Phone: +254748760186 -->
  
 <!--  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredgicharu)](https://github.com/anuraghazra/github-readme-stats)
+ [![Wilfred's github stats](https://github-readme-stats.vercel.app/api?username=WilfredGicharu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredGicharu)](https://github.com/anuraghazra/github-readme-stats) -->
+ -->
 
 <h2 align="left">How to find me</h2>
 <a href="https://twitter.com/DeveloperWilfr1">
