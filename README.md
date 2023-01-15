@@ -4,17 +4,8 @@
 .... Currently Learning Flutter and dart .....
 
 
-<!-- - 📫 How to find me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/wilfredgicharu/)
-  -:office: [twitter](https://twitter.com/DeveloperWilfr1)
-  -:Email: wilfredgicharu254@gmail.com
-  -: Phone: +254748760186 -->
- 
-<!--  
- [![Wilfred's github stats](https://github-readme-stats.vercel.app/api?username=WilfredGicharu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
- 
- -->
 
+ 
 <h2 align="left">How to find me</h2>
 <a href="https://twitter.com/DeveloperWilfr1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
