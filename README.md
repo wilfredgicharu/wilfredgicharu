@@ -39,6 +39,5 @@
 
 
 
-[![Wilfred's github activity](https://activity-graph.herokuapp.com/graph?username=wilfredgicharu&theme=chartreuse-dark)](https://github.com/wilfredgicharu/github-readme-activity-graph)
 
 
