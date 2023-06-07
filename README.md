@@ -1,7 +1,7 @@
 
 ### Hi ✨, Its Wilfred
-         Android developer (Kotlin/java ) ~ Learning Flutter
-.... Currently Learning Flutter and dart .....
+         Mobile developer (Kotlin/java, Flutter ) 
+
 
 
 
