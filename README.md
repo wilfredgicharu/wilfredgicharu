@@ -1,6 +1,6 @@
 
-### Hi ✨, Its Willy Fred
-         Mobile developer (Kotlin/java, Flutter ) - Currently Learning Springboot
+### Hi ✨, Am Willy Fred
+         Mobile developer (Kotlin/java, Flutter): Currently Learning Springboot
 
 
 
