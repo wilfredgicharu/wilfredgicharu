@@ -7,7 +7,7 @@
 
  
 
-<a href="https://twitter.com/DeveloperWilfr1">
+<a href="https://twitter.com/willy_fred1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/wilfredgicharu/">
